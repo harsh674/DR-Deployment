@@ -3,7 +3,7 @@ numpy
 opencv-contrib-python-headless
 streamlit
 
-tensorflow-cpu
+tensorflow-cpu==2.3.0
 
 
 
