@@ -1,5 +1,5 @@
 efficientnet
-numpy
+numpy==1.18.1
 opencv-contrib-python-headless
 streamlit
 
